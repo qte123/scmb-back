@@ -1,0 +1,8 @@
+{
+  "accessKeyId": "",
+  "accessKeySecret": "A4K2ZRAPcNieibLRcOu4Bfj7tkzRz6",
+  "endpoint": "https://oss-cn-shenzhen.aliyuncs.com",
+  "bucketName": "images-cster",
+  "oss_user": "litao",
+  "webpath": "https://img.cster.xyz"
+}
