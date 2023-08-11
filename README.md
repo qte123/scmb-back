@@ -1,4 +1,5 @@
 # scmb-back
+<<<<<<< HEAD
 
 #### 介绍
 基于Django开发的智能分类图片平台
@@ -11,3 +12,5 @@
 链接：https://pan.baidu.com/s/1i6YwgGfIYW-eE1EVzIy-7g 
 提取码：44g3
 下载后替换scmb_back\classification\checkpoints文件夹
+=======
+>>>>>>> 57c6e196ef45c02ff6e34fca3dcdab7a2bbff222
